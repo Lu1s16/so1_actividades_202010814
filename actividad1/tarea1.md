@@ -1,5 +1,11 @@
-### Tipos de kernel y sus diferencias
+# Tipos de kernel y sus diferencias
 
-## User vs Kernel Mode
+## Kernel monolitico
+
+## Microkernel
+
+## Kernel hibrido
+
+# User vs Kernel Mode
 
 # Interruptions vs traps
